@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PasswordPicker">
+        <attr name="enableErrorAnimation" format="boolean" />
+        <attr name="isPasswordType" format="boolean"/>
+        <attr name="viewtextColor" format="color"/>
+        <attr name="passwordChar" format="string"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="AnimateEditText">
+        <attr name="enableTypeAnimation" format="boolean" />
+
+    </declare-styleable>
+
+</resources>

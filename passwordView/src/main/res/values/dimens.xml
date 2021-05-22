@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app specific-->
+    <dimen name="opt_box_height">38dp</dimen>
+    <dimen name="opt_box_space">12dp</dimen>
+</resources>

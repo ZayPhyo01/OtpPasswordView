@@ -1,0 +1,3 @@
+include ':passwordView'
+include ':app'
+rootProject.name = "animatable password view"
