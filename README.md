@@ -6,7 +6,7 @@
 
 
 app:isPasswordType="boolean" to change otp editext to password edittext <br>
-app:viewtextColor="color"  to change text color (Currently not support password type text color
+app:viewtextColor="color"  to change text color (Currently not support password type text color)
 
 Future will support material shape theming and custom password char
 
