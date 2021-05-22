@@ -9,3 +9,8 @@ app:isPasswordType="boolean" to change otp editext to password edittext <br>
 app:viewtextColor="color"  to change text color (Currently not support password type text color
 
 Future will support material shape theming and custom password char
+
+Dependency Setup
+
+maven { url 'https://jitpack.io' }
+implementation 'com.github.ZayPhyo01:OtpPasswordView:0.1.0'
