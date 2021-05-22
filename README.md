@@ -10,7 +10,7 @@ app:viewtextColor="color"  to change text color (Currently not support password 
 
 Future will support material shape theming and custom password char
 
-Dependency Setup
+## Dependency Setup
 
-maven { url 'https://jitpack.io' }
+maven { url 'https://jitpack.io' } <br>
 implementation 'com.github.ZayPhyo01:OtpPasswordView:0.1.0'
